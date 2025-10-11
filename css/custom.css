@@ -6,3 +6,13 @@
 .pr_details {
     text-align: left;
 }
+
+.for_fun{
+
+    color: #494949;
+}
+
+.for_fun:hover{
+    text-decoration: none !important;
+    color: #494949;
+}
